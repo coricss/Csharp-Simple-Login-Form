@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\bin\Debug\LogInForm(Guinanao-Agapito-Cornita).exe.config
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\bin\Debug\LogInForm(Guinanao-Agapito-Cornita).exe
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\bin\Debug\LogInForm(Guinanao-Agapito-Cornita).pdb
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm_Guinanao_Agapito_Cornita_.Form1.resources
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm_Guinanao_Agapito_Cornita_.Properties.Resources.resources
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).exe
+C:\Users\Dell\Desktop\LogIn\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).pdb
+C:\Users\user\source\repos\c#loginform\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).csprojAssemblyReference.cache
+C:\Users\user\source\repos\c#loginform\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).exe
+C:\Users\user\source\repos\c#loginform\LogInForm(Guinanao-Agapito-Cornita)\obj\Debug\LogInForm(Guinanao-Agapito-Cornita).pdb
